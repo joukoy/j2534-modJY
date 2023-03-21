@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/11/trunk/ptshim32
+END
+shim_output.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/ptshim32/shim_output.cpp
+END
+ptshim32.def
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5/trunk/ptshim32/ptshim32.def
+END
+shim_output.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/ptshim32/shim_output.h
+END
+shim_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/ptshim32/shim_loader.cpp
+END
+ptshim.rc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11/trunk/ptshim32/ptshim.rc
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/trunk/ptshim32/stdafx.cpp
+END
+ptshim32.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/ptshim32/ptshim32.vcproj
+END
+shim_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/ptshim32/shim_loader.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/trunk/ptshim32/resource.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/ptshim32/stdafx.h
+END
+SelectionBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/ptshim32/SelectionBox.cpp
+END
+shim_frontend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/ptshim32/shim_frontend.cpp
+END
+SelectionBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/ptshim32/SelectionBox.h
+END
+ptshim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/trunk/ptshim32/ptshim.cpp
+END
+shim_frontend.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/ptshim32/shim_frontend.h
+END
+shim_debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/ptshim32/shim_debug.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/11/trunk/ptshim32/targetver.h
+END
+ptshim.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/ptshim32/ptshim.h
+END
+j2534_v0404.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/ptshim32/j2534_v0404.h
+END
+shim_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5/trunk/ptshim32/shim_debug.h
+END
